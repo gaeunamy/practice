@@ -1,0 +1,2 @@
+DELETE FROM car_data
+WHERE fuel IS NULL;
